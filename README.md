@@ -1,0 +1,1 @@
+## This is a history project for the 3rd semester of study at ITMO University
